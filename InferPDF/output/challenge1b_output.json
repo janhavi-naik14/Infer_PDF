@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Claire Vallance (Oxford) Lecture Notes _ Reaction Kinetics.pdf",
+      "cbse_class_12_chemistry_notes_chapter_4_chemical_kinetics.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-31T23:40:17"
+  },
+  "extracted_sections": [
+    {
+      "document": "cbse_class_12_chemistry_notes_chapter_4_chemical_kinetics.pdf",
+      "section_title": "Full Document",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Claire Vallance (Oxford) Lecture Notes _ Reaction Kinetics.pdf",
+      "section_title": "Full Document",
+      "importance_rank": 2,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "cbse_class_12_chemistry_notes_chapter_4_chemical_kinetics.pdf",
+      "refined_text": "Class XII Chemistry www.vedantu.com 3 \nFor a reaction, \nA + 2B \n3C + 4D\n \nRate of disappearance of B = 2 × Rate of disappearance of A (2:1) \nRate of formation of C = 3 × Rate of disappearance of A \n(3:1) \nRate of formation of D = 4 × Rate of disappearance of A \n(4:1) \nTo define a unique value for the overall rate of the reaction we divide the individual \nrates by the respective coefficients and equate their signs. Dependence on Concentration: \n2.1 Rate law \nConsider a general reaction \naA + bB \ncC + dD\n \nThe rate expression for this reaction is \n \n \nClass XII Chemistry www.vedantu.com 4 \n \n \nRate \n A\nx B\ny\n\n \nwhere exponents x and y may or may not be equal to the stoichiometric coefficients \n(a and b) of the reactants.  \n \n \n\n \n\n\n\n\n2\n1\n2\n2\n2\n2\n3\n2\n4\n3\n2\n2NO g + O g\n 2NO g Rate = k NO\nO\n \nCHCl + Cl...",
+      "page_number": 1
+    },
+    {
+      "document": "Claire Vallance (Oxford) Lecture Notes _ Reaction Kinetics.pdf",
+      "refined_text": "The time separation between the two pulses can be varied \neither electronically or with an optical delay line down to a resolution of around 10 femtoseconds \n (10-14 s) \n Relaxation methods \nIf we allow a chemical system to come to equilibrium and then perturb the equilibrium in some way, \nthe rate of relaxation to a new equilibrium position provides information about the forward and \nreverse rate constants for the reaction. Experimental techniques \n \n \n(i) Techniques for mixing the reactants and initiating reaction \n \n \n(ii) Techniques for monitoring concentrations as a function of time \n \n \n(iii) Temperature control and measurement \n9. For example, the reaction equation for \n the well-known Haber process, used industrially to produce ammonia, is: \n \n \n \n \nN2 + 3H2 ¾ 2NH3 \n \nN2 has a stochiometric coefficient of 1, H2 has a coefficient of 3, and NH3 has a coefficient of 2. Since for every mole of N2 that reacts, we lose three moles of H2, if we had monitored H2 instead of \nN...",
+      "page_number": 1
+    }
+  ]
+}
